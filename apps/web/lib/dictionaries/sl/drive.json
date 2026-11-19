@@ -60,6 +60,7 @@
 	"shareOneHour": "1 uro",
 	"shareOneDay": "1 dan",
 	"shareSevenDays": "7 dni",
+	"shareNever": "Nikoli",
 	"createShareLink": "Ustvari povezavo",
 	"copyShareLink": "Kopiraj povezavo",
 	"shareLinkCopied": "Povezava kopirana",
@@ -70,6 +71,7 @@
 	"activeShareLinks": "Aktivne povezave",
 	"noActiveShareLinks": "Ni aktivnih povezav.",
 	"shareLinkExpires": "Poteče",
+	"shareLinkNeverExpires": "Ne poteče nikoli",
 	"revokeShareLink": "Prekliči povezavo",
 	"revokeShareLinkConfirm": "Ali želite preklicati to povezavo za deljenje?",
 	"downloadFailed": "Prenos ni uspel"
